@@ -1,5 +1,3 @@
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Fundamentals](#unit-2---fundamentals) | [Sketch Transform](#unit-3---sketch-transform) | [Sketch Agents](#unit-4---sketch-agents) | [Sketch Noise](#unit-5---sketch-noise) | [Sketch Type](#unit-6---sketch-type) |
 
 [Canvas-Sketch Documentation](#canvas-sketch)
 
