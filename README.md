@@ -30,9 +30,6 @@
 | ![Avatar from Github](finalProjectRenders/low/unit6SketchTypeAvatar.jpg) | ![Avatar from Linkedin](finalProjectRenders/low/unit6SketchTypeLinkedin.jpg) | ![Old avatar](finalProjectRenders/low/unit6SketchTypeOldAvatar.jpg) |
 | ------------- | ------------- | ------------- |
 
-[Course of Creative Coding with Javascript by Bruno Imbrizi on Domestika.](https://www.domestika.org/pt/courses/2729-programacao-criativa-produza-pecas-visuais-com-javascript)
-
-
 
 `canvas-sketch` is a loose collection of tools, modules and resources for creating generative art in JavaScript and the browser.
 
