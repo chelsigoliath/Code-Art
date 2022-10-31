@@ -1,6 +1,3 @@
-# Domestika: Creative Coding (bruno.imbrizi)
-
-| Unit 2 | Unit 3 | Unit 4 | Unit 5 | Unit 6 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Fundamentals](#unit-2---fundamentals) | [Sketch Transform](#unit-3---sketch-transform) | [Sketch Agents](#unit-4---sketch-agents) | [Sketch Noise](#unit-5---sketch-noise) | [Sketch Type](#unit-6---sketch-type) |
 
@@ -9,26 +6,25 @@
 - [Quick Start](#quick-start)
 - [Canvas-Sketch Example](#code-example)
 
-## Unit 2 - Fundamentals
+
 
 ![Blocks in black](finalProjectRenders/low/unit2Fundamentals1.jpg)
 ![Blocks in neumorphism style](finalProjectRenders/low/unit2Fundamentals2.png)
 
-## Unit 3 - Sketch Transform
 
 ![Randomized circles in different styles](finalProjectRenders/low/unit3SketchTransform1.jpg)
 ![Circles in neumorphism style](finalProjectRenders/low/unit3SketchTransform2.jpg)
 
-## Unit 4 - Sketch Agents
+
 
 ![Randomized dots connected by rules](finalProjectRenders/low/unit4SketchAgents1.jpg)
 ![Randomized dots connected by rules in different styles](finalProjectRenders/low/unit4SketchAgents2.png)
 
-## Unit 5 - Sketch Noise
+
 
 ![Dashes following random wave](finalProjectRenders/low/unit5SketchNoise.jpg)
 
-## Unit 6 - Sketch Type
+
 
 | ![Abaporu by Tarsila do Amaral](finalProjectRenders/low/unit6SketchTypeAvatarAbaporuTarsilaDoAmaral.jpg) | ![Meisje Met de Parel by Johannes Vermeer](finalProjectRenders/low/unit6SketchTypeMeisjeMetDeParelJohannesVermeer.jpg) |
 | ------------- | ------------- |
@@ -38,7 +34,7 @@
 
 [Course of Creative Coding with Javascript by Bruno Imbrizi on Domestika.](https://www.domestika.org/pt/courses/2729-programacao-criativa-produza-pecas-visuais-com-javascript)
 
-# canvas-sketch
+
 
 `canvas-sketch` is a loose collection of tools, modules and resources for creating generative art in JavaScript and the browser.
 
@@ -97,7 +93,6 @@ For more features and details, see the [Documentation](https://github.com/mattde
 
 ### Code Example
 
-Once you have the CLI tool running, you can try this example of an A4 print artwork.
 
 ```js
 const canvasSketch = require('canvas-sketch');
